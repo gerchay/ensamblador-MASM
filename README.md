@@ -8,17 +8,17 @@
 - [MASM](https://sourceforge.net/projects/masm611/)
 
 ## Descripción de archivos
-- **EJEMPLO** 
+#### 1. EJEMPLO
     Archivo texto creado en ejemplo `files.asm`.
-- **files** 
+#### 2. files
     Crea y lee un archivo de texto.
-- **macros** 
+#### 3. macros
     Contiene los diferentes macros utilizados en los otros archivos `.asm`.
-- **menu** 
+#### 4. menu
     Ejemplo sencillo de como implementar un menú.
-- **saludo** 
+#### 5. saludo
     Imprime un `Hola Mundo`.
-- **menu** 
+#### 6. menu
     Intercambio entre modo video y modo texto.
 
 ## Recursos
