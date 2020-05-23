@@ -1,0 +1,1 @@
+Hola, Soy el Texto dentro del archivo. 	ejemplo.txt 
